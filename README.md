@@ -9,6 +9,8 @@ Just download and install this file.
 
  This is an official exe-file (MS Visual C++ 2015-2022). There is no need to reboot your computer after install.
  
+ <h1 style="text-align: center;"><span style="color: #3366ff;">Enjoy!!!</span></h1>
+ 
  
  <h2 style="text-align: center;"><span style="color: #3366ff;">Attention</span></h2>
  In the Internet you can find a lot of instructions for solving this problem. 
@@ -19,5 +21,5 @@ Just download and install this file.
 But this works only rarely in the case of Tor browser.
 
 
-<h1 style="text-align: center;"><span style="color: #3366ff;">Enjoy!!!</span></h1>
+
 
