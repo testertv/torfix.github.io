@@ -18,7 +18,7 @@ Just download and install this file.
 - Install Visual C++ Redistributable 2015 (vc_redist.x64.exe or vc_redist.x86.exe)
 - Download and input DLLs in "C:\Windows\System32" or "C:\Windows\SysWOW64" 
 
-But this works only rarely in the case of Tor browser.
+But this works only rarely in the case of Tor Browser.
 
 
 
